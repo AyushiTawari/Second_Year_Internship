@@ -1,4 +1,4 @@
-"""
+
 #1
 x=int(input("Enter number"))
 y=int(input("Enter number"))
@@ -69,7 +69,7 @@ if count!=0:
     print("Not a prime number")
 else:
     print("Prime number")
-"""
+
 #10 
 def fib(n):
     fib=[0,1]
