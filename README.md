@@ -1,7 +1,9 @@
 Futerense_Internship_First-set-of-basic-codes.
 
 1.Sum of numbers
+
 2.Greater of two numbers
+
 3.Factorial of a number
 4.Simple Interest
 5.Compound Interest
