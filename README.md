@@ -1,4 +1,4 @@
-Futerense_Internship_First-set-of-basic-codes.
+Futerense-Internship:First-set-of-basic-codes.
 
 1.Sum of numbers
 2.Greater of two numbers
