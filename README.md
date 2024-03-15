@@ -1,12 +1,26 @@
-Futerense-Internship:First-set-of-basic-codes.
+Futerense-Internship:
 
-1.Sum of numbers
-2.Greater of two numbers
-3.Factorial of a number
-4.Simple Interest
-5.Compound Interest
-6.Armstrong numbers
-7.Area of a circle
-8.Prime numbers between two integars
-9.Prime number or not
-10.Fibonnaci series
+Level 1 of Python problems.
+1)Sum of numbers
+2)Greater of two numbers
+3)Factorial of a number
+4)Simple Interest
+5)Compound Interest
+6)Armstrong numbers
+7)Area of a circle
+8)Prime numbers between two integars
+9)Prime number or not
+10)Fibonnaci series
+
+Level 2 of Python problems.
+1)Python progam to flatten tuple of list to tuple. 
+2)Convert set into tuple and tuple into set. 
+3)Covert list of dictionary to tuple list.
+4)Sort tuple list by nth element of tuple. 
+5)Find tuple indices from other tuple list. 
+6)Convert dictionary value list to dictionary list.
+There are two code files - one takes a user defined input while in the other file custom input has already been provided.
+
+Level 3 of Python problems.
+
+
